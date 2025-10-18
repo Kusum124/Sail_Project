@@ -1,0 +1,10 @@
+flask
+streamlit
+pdfplumber
+transformers
+torch
+sentencepiece
+fpdf2
+requests
+python-dotenv
+accelerate
